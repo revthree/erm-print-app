@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1001",
+    "name": "Ravi Kumar",
+    "age": 42,
+    "gender": "Male",
+    "visitDate": "2026-10-01",
+    "doctor": "Dr. Geeta Rao",
+    "complaints": [
+      {
+        "complaint": "Knee pain",
+        "severity": "Moderate",
+        "duration": "6 months"
+      }
+    ],
+    "history": "Pain in both knees for 6 months, worse in the morning.",
+    "familyHistory": {
+      "father": "Diabetes",
+      "mother": "Healthy",
+      "siblings": "None"
+    },
+    "params": {
+      "bp": "130/85",
+      "pulse": 78,
+      "weightKg": 72,
+      "heightCm": 170,
+      "bmi": 24.9
+    },
+    "prescription": [
+      {
+        "medicine": "Rasnadi Kashayam",
+        "dosage": "15 ml",
+        "timing": "After food",
+        "duration": "15 days"
+      }
+    ]
+  },
+  {
+    "id": "1002",
+    "name": "Priya Sharma",
+    "age": 35,
+    "gender": "Female",
+    "visitDate": "2026-10-05",
+    "doctor": "Dr. Meera Nair",
+    "complaints": [
+      {
+        "complaint": "Headache",
+        "severity": "Mild",
+        "duration": "3 days"
+      }
+    ],
+    "history": "",
+    "familyHistory": {
+      "father": "Hypertension",
+      "mother": "Healthy",
+      "siblings": "One brother"
+    },
+    "params": {
+      "bp": "118/78",
+      "pulse": 74,
+      "weightKg": 58,
+      "heightCm": 162,
+      "bmi": 22.1
+    },
+    "prescription": [
+      {
+        "medicine": "Paracetamol",
+        "dosage": "500 mg",
+        "timing": "After food",
+        "duration": "3 days"
+      }
+    ]
+  },
+  {
+    "id": "1003",
+    "name": "Arjun Rao",
+    "age": 50,
+    "gender": "Male",
+    "visitDate": "2026-10-10",
+    "doctor": "Dr. Geeta Rao",
+    "complaints": [
+      {
+        "complaint": "Back pain",
+        "severity": "Moderate",
+        "duration": "2 weeks"
+      }
+    ],
+    "history": "Lower back pain following prolonged sitting.",
+    "familyHistory": {
+      "father": "Healthy",
+      "mother": "Diabetes",
+      "siblings": "Two sisters"
+    },
+    "params": {
+      "bp": "125/82",
+      "pulse": 80,
+      "weightKg": 76,
+      "heightCm": 175,
+      "bmi": 24.8
+    },
+    "prescription": [
+      {
+        "medicine": "Ibuprofen",
+        "dosage": "200 mg",
+        "timing": "After food",
+        "duration": "5 days"
+      }
+    ]
+  }
+]
